@@ -5,8 +5,8 @@
     "js_hash": "a4b4509c519481dc691f5d7fa394c8dca38e30187224db344c0dcc0478ef440f"
   },
   "tverse": {
-    "version": "0.7.29",
-    "main_js": "app.js?0.7.29",
-    "js_hash": "6fa1019e95631417f69cfb907ca9b85754b0bc5a3010bd5210c53d06cf2f781b"
+    "version": "0.7.31",
+    "main_js": "app.js?0.7.31",
+    "js_hash": "3dfb42f8cc2a918668789e4fdddbb9f426c44a01aca93659c0a94c9d6ba1bf86"
   }
 }
