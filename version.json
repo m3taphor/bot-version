@@ -1,10 +1,12 @@
 {
   "bums": {
+    "version": "1.1.17",
     "main_js": "index-DtKWrBaz.js",
     "js_hash": "a4b4509c519481dc691f5d7fa394c8dca38e30187224db344c0dcc0478ef440f"
   },
   "tverse": {
-    "main_js": "app.js?0.7.27",
-    "js_hash": "32e3ae1d4def745cb20ba818c4f88bb25bb39eebb8c310b55573205390bd0c46"
+    "version": "0.7.29",
+    "main_js": "app.js?0.7.29",
+    "js_hash": "6fa1019e95631417f69cfb907ca9b85754b0bc5a3010bd5210c53d06cf2f781b"
   }
 }
