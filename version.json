@@ -6,12 +6,7 @@
     },
     "zoo": {
         "version": "0.0.0",
-<<<<<<< HEAD
         "main_js": "index-DJtOHyev.js",
         "js_hash": "fb675f644dfcc5ff340d4d79c2b294026d1fb6f2f31a4c993b224cd077f5a4b7"
-=======
-        "main_js": "index-Dlg-Lhao.js",
-        "js_hash": "58331c06cd6d5b29afce96dc2d88f09bddb8da55e6cce9af5ed4c907a70ba76d"
->>>>>>> d7d242c4421ee391d1f5f1e11626d0832b33208b
     }
 }
