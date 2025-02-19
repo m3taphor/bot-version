@@ -1,8 +1,8 @@
 {
     "tverse": {
-        "version": "0.8.41",
-        "main_js": "app.js?0.8.41",
-        "js_hash": "4f8b18854f3c4a4b7391ae8ef7379708932334bcd32c903f7365b54e661f064a"
+        "version": "0.8.42",
+        "main_js": "app.js?0.8.42",
+        "js_hash": "bb3e9f9091387578e467d6fe581a9668ce906cb773acf8a0ff72d3962eb9c182"
     },
     "zoo": {
         "version": "0.0.0",
