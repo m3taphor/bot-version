@@ -1,7 +1,7 @@
 {
     "tverse": {
-        "version": "0.9.10",
-        "main_js": "app.js?0.9.10",
-        "js_hash": "063a4b459a0c7cfbfbdbfd892415e93120619358972bf8656edc49fab7854178"
+        "version": "0.9.12",
+        "main_js": "app.js?0.9.12",
+        "js_hash": "0b06bbe464f5d059412679ad4f6073f3940702c05e77aa56190f5558eca1af9e"
     }
 }
